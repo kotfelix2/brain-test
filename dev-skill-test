@@ -1,1 +1,2 @@
 const skill = "Money taker";
+alert(skill + '5000');
